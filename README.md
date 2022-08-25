@@ -1,1 +1,1 @@
-# wordpress-docker-localdev
+# wordpress-phpmyadmin-mysql-docker-localdev
